@@ -131,7 +131,7 @@ public class Sapper extends JFrame {
         System.exit(0);
     }
 
-    // метод фиксании нажатия мышкой и их отображения
+    // класс фиксании нажатия мышкой и их отображения
     private class CellClickListener implements ActionListener {
         private int i;
         private int j;
